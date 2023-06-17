@@ -166,7 +166,7 @@ The code above will build a new `access` service, serving a `url` type file that
 The supported `ServiceTypes` are `ACCESS` and `COMPUTE`.
 <br />The supported `FileTypes` are `URL`, `GRAPHQL`, `ARWEAVE`, `IPFS` and `SMARTCONTRACT`.
 
-For more info on the different types and their available configuration, please refer to the official [Ocean Protocl Documentation](https://docs.oceanprotocol.com/core-concepts/did-ddo#files).
+For more info on the different types and their available configuration, please refer to the official [Ocean Protocol Documentation](https://docs.oceanprotocol.com/core-concepts/did-ddo#files).
 
 ### Consumer Parameters
 
@@ -212,7 +212,7 @@ serviceBuilder.addConsumerParameter(selectParam)
 
 ### Pricing
 
-We also want to also specify the pricing for our asset. The `AssetBuilder` provides a function for this that we can make use of:
+We also want to specify the pricing for our asset. The `AssetBuilder` provides a function for this that we can make use of:
 
 ```ts
 // Example of a fixed asset
